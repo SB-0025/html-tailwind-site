@@ -24,7 +24,7 @@ A modern, responsive static website built using **HTML**, **Tailwind CSS**, and 
 
 ## 🔗 Preview
 
-[👉 View Live on GitHub Pages](https://your-username.github.io/tech-spark/)
+[👉 View Live on GitHub Pages](https://sb-0025.github.io/html-tailwind-site/) 
 
 ---
 
